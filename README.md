@@ -33,4 +33,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 This is a base template for quick start with Front and Back module in Angular don't know if it's the best way 
 or it's just working for me
 
+## Why the home component
+
+Maybe the name is wrong should be named splash page you can put it in app-routing.module.ts to make it the 
+home page and use it with a different format then your site
+
 
